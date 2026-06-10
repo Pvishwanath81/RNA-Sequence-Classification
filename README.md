@@ -17,6 +17,18 @@ The main goal was to preprocess RNA sequences, extract meaningful features, trai
 * Reproduced the TEC-LncMir architecture from the research paper.
 * Implemented and tested improved versions of TEC-LncMir.
 
+## Dataset
+
+The dataset used in this project is automatically downloaded from the TEC-LncMir repository when the notebook is executed.
+
+Files downloaded:
+- pairs.txt
+- homo_mature_mirna.fa
+- gencode.v33.lncRNA_transcripts.fa
+
+Source:
+https://github.com/tingpeng17/TEC-LncMir
+
 ## Models Implemented
 
 ### Baseline Machine Learning Models
